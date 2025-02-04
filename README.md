@@ -17,3 +17,6 @@
 ### 3.Model Training&Evaluation
    #### * Implemented Random Forest, XGBoost classifiers
    #### * Use Accuracy,Precision,Recall,F1 Score,ROC-AUC Score for performance evaluation
+
+## Dataset is from Kaggle Playgroud 
+### https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data/data
