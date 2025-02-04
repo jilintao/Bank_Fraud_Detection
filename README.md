@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-### This project aims to build a machine learning model to detect fraudulent bank transactions. Fraud detection is a crucial task in the financial industry, where identifying fraudulent activities early can prevent significant financial losses. The dataset includes transaction details such as time, amount, transaction type, merchant group, and user details (e.g., country, gender, age, and bank).
-
+### This project aims to build a machine learning model to detect fraudlent bank transactions. Fruad detection is a crucial task is the financial industry, where identifying fraudulent activities early can prevent significant financial losses. The dataset includes transaction details such as time, amount,transaction type,merchant group, and user details(e.g.,country,gender,age,and bank.)
+ 
 ## Key Steps
 
 ### 1.Data cleaning&Preprocessing
