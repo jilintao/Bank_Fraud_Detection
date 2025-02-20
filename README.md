@@ -48,3 +48,12 @@ This data is all labeled data and can be evaluated by Cross-Validation method fo
   
 ## Dataset is from Kaggle
 ### [https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data/data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+
+## 3. Conclusion
+<div align="justify">
+
+Precision and recall are a contradictory set of variables. From the above confusion matrix and PRC curve, ROC curve can be seen, the smaller the threshold value, the larger the recall value, the model can find out the number of credit card theft is also with the terrier, but the price is the number of miscarriage of justice is also larger, with the increase of the threshold value, the recall value is gradually reduced, the precision value is also gradually increased, the number of miscarriage of justice is also reduced. By adjusting the model threshold, the strength of the model against credit card fraud is controlled, if you want to find out more credit card theft, set a smaller threshold, and vice versa, set a larger threshold.
+
+In actual business, the choice of threshold depends on the comparison of marginal profit and marginal cost of the company's business. When the model threshold is set to a smaller value, it does find out more credit card holders with stolen credit cards, but with the increase in the number of misjudgments, it not only increases the workload of the post-loan team, but also reduces the consumption experience of the customers who are misjudged as stolen credit card holders, which leads to a decrease in customer satisfaction. If a certain model threshold can make the business marginal profit and marginal cost to reach a balance, then the threshold value of the model is the optimal value. Of course there are exceptions, when there is a financial crisis, it is often accompanied by an increased chance of loan default or credit card theft, and financial institutions will be more willing to hold the line on risk at all costs.
+
+</div>
